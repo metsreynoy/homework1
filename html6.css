@@ -1,0 +1,19 @@
+/*h1{
+    text-align: center;
+}
+  table{
+    width: 40%; height: 1000px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: antiquewhite;
+  }*/
+
+ h1{
+   text-align: center;
+ } 
+ h2{
+  text-align: center;
+ }
+ .block table{
+    width: 50%; margin: auto;
+ }
